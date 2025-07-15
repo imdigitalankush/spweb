@@ -1,0 +1,1 @@
+<?php namespace PHPMailer\PHPMailer; class PHPMailer { public function __construct($x=true) {} } ?>
